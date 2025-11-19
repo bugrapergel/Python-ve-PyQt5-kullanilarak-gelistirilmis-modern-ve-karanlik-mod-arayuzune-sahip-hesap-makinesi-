@@ -1,0 +1,1 @@
+# Python-ve-PyQt5-kullanilarak-gelistirilmis-modern-ve-karanlik-mod-arayuzune-sahip-hesap-makinesi-
